@@ -1,5 +1,5 @@
 #Gestor de librería de libros usados
-
+![Vista de terminal del programa](image.png)
 El programa  gestiona una librería de libros usados desde la terminal. Permite cargar, eliminar, buscar (por título o por género) y listar libros. Los datos se guardan en una base de datos, así que siguen ahí aunque cierre el programa.
 
 Todavía no controla el stock. Cada libro guarda su cantidad de ejemplares, pero por ahora solo se muestra. Más adelante quiero que avise cuando a un libro le quede un solo ejemplar.
